@@ -1,2 +1,10 @@
 
-The code of the paper The Hacker's Guide to Javac by David Erni and Adrian Kuhn
+iJavac
+======
+
+The iJavac (Interactive Javac) project is an interactive console for java programs.
+
+The idea is that it should compile at fly, or runtime when loading the java file
+and then put all public functions available to use from the console.
+It implies to load all java basic types initially.
+
